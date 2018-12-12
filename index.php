@@ -5,4 +5,4 @@
  * Date: 2018/12/12
  * Time: 17:55
  */
-phpinfo();
+echo "hello";
